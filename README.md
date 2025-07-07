@@ -3,7 +3,7 @@ Project report for Vocabulary Enrichment
 
 This Python script displays a "Word of the Day" notification on your Windows desktop, helping you build your vocabulary in a fun and consistent way.
 
-📌 Features
+Features:
 i. Automatically picks words based on today's date
 ii. Selects a random word that starts with the daily letter
 iii. Fetches words and meanings from a local JSON dictionary
